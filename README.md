@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Illya Lotvin
-- 👀 I’m interested in forntend development
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning JS and React
 - 💞️ I’m looking to collaborate on IT-companies
 - 📫 How to reach me: 
